@@ -1,0 +1,13 @@
+
+build:
+  version: 5.0
+
+cards:
+  message: "Welcome to Eazybank cards qa env related local APIs"
+  contactDetails:
+    name: "John Doe"
+    email: "john@gmail.com"
+  onCallSupport:
+    -8374571288
+    -8499015589
+

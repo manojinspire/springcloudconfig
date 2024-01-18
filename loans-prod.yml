@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to Eazybank loans prod env related local APIs"
+  contactDetails:
+    name: "John Doe"
+    email: "john@gmail.com"
+  onCallSupport:
+    -8374571288
+    -8499015589
