@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to Eazybank accounts related productionnn APIs"
+  message: "Welcome to Eazybank accounts related productionnnn APIs"
   contactDetails:
     name: "John Doe prod"
     email: "john@gmail.com"
